@@ -1,0 +1,21 @@
+123
+sum
+(MINUS 54 3)
+(IF 3 5)
+(MINUS -12 3)
+(MINUS 42 -3)
+(MINUS -10 -8)
+(IF -12 3)
+(IF 42 -3)
+(IF -10 -8)
+(MINUS --1 2)
+(MINUS ---4 1)
+(MINUS 4 --1)
+(IF --1 2)
+(IF ---4 1)
+(IF 4 --1)
+(IF 3 1
+(IF (IF 3 10) 3)
+(MINUS (IF 1 3) (MINUS (MINUS -5 1) 1))
+(30303)
+(IF a b)
